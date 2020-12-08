@@ -52,13 +52,10 @@ Contributed by Tian Mingjie(田明杰)、Song Rui(宋瑞)、Zhao Ke(赵克)、Ch
     
 6. **CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition, NAACL2019** [paper](https://arxiv.org/pdf/1904.02141.pdf)
     *Yuying Zhu, Guoxin Wang, Borje F. Karlsson. Nankai University, Microsoft Research Asia*(√)
-
-7. **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.752.pdf)
-    *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno et al. University of Southern California; Amazon*(√)
     
-8. **Handling Rare Entities for Neural Sequence Labeling, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.574.pdf)(×)
+7. **Handling Rare Entities for Neural Sequence Labeling, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.574.pdf)(×)
 
-9. **Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.750.pdf)(√)
+8. **Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.750.pdf)(√)
 
 ### [远程监督](#content)
 或者少量样本，或者低资源的实体识别。
@@ -71,6 +68,9 @@ Contributed by Tian Mingjie(田明杰)、Song Rui(宋瑞)、Zhao Ke(赵克)、Ch
     *Farhad Nooralahzadeh, Jan Tore Lønning, Lilja Øvrelid.    University of Oslo, Norway*(√)
 
 3. **Improving Low-Resource Named Entity Recognition using Joint Sentence and Token Labeling, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.523/)
+
+4. **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.752.pdf)
+    *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno et al. University of Southern California; Amazon*(√)
 
 ### [词汇增强](#content)
 1. **Chinese NER Using Lattice LSTM，ACL2018** [paper](https://arxiv.org/pdf/1805.02023.pdf)
