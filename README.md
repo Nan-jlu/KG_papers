@@ -52,16 +52,13 @@ Contributed by Tian Mingjie(田明杰)、Song Rui(宋瑞)、Zhao Ke(赵克)、Ch
     
 6. **CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition, NAACL2019** [paper](https://arxiv.org/pdf/1904.02141.pdf)
     *Yuying Zhu, Guoxin Wang, Borje F. Karlsson. Nankai University, Microsoft Research Asia*(√)
-    
-7. **A Neural Multi-digraph Model for Chinese NER with Gazetteers，ACL2019** [paper](https://www.aclweb.org/anthology/P19-1141.pdf)
-    *Ruixue Ding, Pengjun Xie et al. Alibaba Group, Beihang University, Singapore University of Technology and Design*(√)
 
-8. **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.752.pdf)
+7. **TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.752.pdf)
     *Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno et al. University of Southern California; Amazon*(√)
     
-9. **Handling Rare Entities for Neural Sequence Labeling, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.574.pdf)(×)
+8. **Handling Rare Entities for Neural Sequence Labeling, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.574.pdf)(×)
 
-10. **Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.750.pdf)(√)
+9. **Multi-Domain Named Entity Recognition with Genre-Aware and Agnostic Inference, ACL2020** [paper](https://www.aclweb.org/anthology/2020.acl-main.750.pdf)(√)
 
 ### [远程监督](#content)
 或者少量样本，或者低资源的实体识别。
@@ -87,7 +84,11 @@ Contributed by Tian Mingjie(田明杰)、Song Rui(宋瑞)、Zhao Ke(赵克)、Ch
     
 4. **A Lexicon-Based Graph Neural Network for Chinese NER，EMNLP2019** [paper](https://www.aclweb.org/anthology/D19-1096.pdf)
     *Tao Gui, Yicheng Zou, Qi Zhang et al. Fudan University*(√)
-5. **FLAT: Chinese NER Using Flat-Lattice Transformer，ACL2020** [paper](https://arxiv.org/pdf/2004.11795.pdf)
+    
+5. **A Neural Multi-digraph Model for Chinese NER with Gazetteers，ACL2019** [paper](https://www.aclweb.org/anthology/P19-1141.pdf)
+    *Ruixue Ding, Pengjun Xie et al. Alibaba Group, Beihang University, Singapore University of Technology and Design*(√)
+    
+6. **FLAT: Chinese NER Using Flat-Lattice Transformer，ACL2020** [paper](https://arxiv.org/pdf/2004.11795.pdf)
     *Xiaonan Li, Hang Yan, Xipeng Qiu, Xuanjing Huang, Fudan University*(√)
     
 ### [嵌套实体](#content)
