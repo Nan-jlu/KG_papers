@@ -31,7 +31,6 @@ Contributed by Tian Mingjie(田明杰)、Song Rui(宋瑞)、Zhao Ke(赵克)、Ch
 <tr><td colspan="2"><a href="#知识问答">6. 知识问答</a></td></tr>
 <tr><td colspan="2"><a href="#推荐系统">7. 推荐系统</a></td></tr>
 <tr><td colspan="2"><a href="#知识图谱表示学习">8. 知识图谱表示学习</a></td></tr>
-**知识图谱**
 </table>
 
 ## [实体识别](#content)
@@ -115,25 +114,49 @@ Contributed by Tian Mingjie(田明杰)、Song Rui(宋瑞)、Zhao Ke(赵克)、Ch
 3. **A Walk-based Model on Entity Graphs for Relation Extraction,ACL2018** [paper](https://www.aclweb.org/anthology/P18-2014.pdf)
     *Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou. The University of Manchester, United Kingdom; Toyota Technological Institute, Nagoya* 
 
+4. **Enriching Pre-trained Language Model with Entity Information for Relation Classification，CIKM2019** [paper](https://arxiv.org/pdf/1905.08284.pdf)
+
 ### [半监督](#content)
 包含bootstrapping和远程监督，后者在神经网络中常用。其基本假设是：对于一个已有的知识图谱中的一个三元组，假设外部文档库中任何包含这对实体的句子，在一定程度上都反映了这种关系。缺点是会引入大量噪声。因此会有一些操作可以减少噪声：多示例学习；强化学习；预训练。
 
 1. **Snowball : Extracting relations from large Plain-text collections，2000**（这篇太久了可以不看）
     *Agichtein E, Gravano L*
     
-2. **Deep Residual Learning for Weakly-Supervised Relation Extraction，ACL2017** [paper](https://www.aclweb.org/anthology/D17-1191.pdf)
+2. **Distant supervision for relation extraction without labeled data，ACL2009** [paper](https://www.aclweb.org/anthology/P09-1113.pdf)
 
-3. **Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix，ACL2018** [paper](https://www.aclweb.org/anthology/P17-1040.pdf)
+3. **Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks，EMNLP2015** [paper](https://www.aclweb.org/anthology/D15-1203.pdf)
 
-3. **Neural Snowball for Few-Shot Relation Learning，AAAI2020** [paper](https://arxiv.org/pdf/1908.11007v1.pdf)
+4. **Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks，COLING2016** [paper](https://www.aclweb.org/anthology/C16-1139.pdf)
+
+5. **Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions，AAAI2017** [paper](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/14-JiG-14491.pdf)
+
+6. **Deep Residual Learning for Weakly-Supervised Relation Extraction，ACL2017** [paper](https://www.aclweb.org/anthology/D17-1191.pdf)
+
+7. **Learning with Noise: Enhance Distantly Supervised Relation Extraction with Dynamic Transition Matrix，ACL2018** [paper](https://www.aclweb.org/anthology/P17-1040.pdf)
+
+8. **Reinforcement Learning for Relation Classification from Noisy Data，AAAI2018** [paper](https://arxiv.org/pdf/1808.08013.pdf)
+
+9. **Neural Snowball for Few-Shot Relation Learning，AAAI2020** [paper](https://arxiv.org/pdf/1908.11007v1.pdf)
     *Tianyu Gao, Xu Han,Maosong Sun et al. Tsinghua University and Search Product Center, WeChat Search Application Department, Tencent*
     
-4. **Distilling Knowledge fromWell-Informed Soft Labels for Neural Relation Extraction,AAAI2020** [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6509/6365)
+10. **Distilling Knowledge fromWell-Informed Soft Labels for Neural Relation Extraction,AAAI2020** [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6509/6365)
     *Zhenyu Zhang, Xiaobo Shu, Bowen Yu, Tingwen Liu et al. Chinese Academy of Sciences*
 
 ## [实体关系联合抽取](#content)
 
-1. **Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents, ACL2020** [paper](https://arxiv.org/abs/2004.09930)
+1. **Joint entity and relation extraction based on a hybrid neural network，Neurocomputing2017** [paper](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/Joint-Entity-and-Relation-Extraction-Based-on.pdf)
+
+2. **End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures，ACL2016** [paper](https://www.aclweb.org/anthology/P16-1105.pdf)
+
+3. **Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme，ACL2017** [paper](https://www.aclweb.org/anthology/P17-1113.pdf)
+
+4. **Joint entity recognition and relation extraction as a multi-head selection problem，Expert Systems with Application2018** [paper](https://arxiv.org/pdf/1804.07847.pdf)
+
+5. **Joint Extraction of Entities and Overlapping Relations Using Position-Attentive Sequence Labeling，AAAI2019** [paper](https://ojs.aaai.org//index.php/AAAI/article/view/4591)
+
+6. **End-to-end Named Entity Recognition and Relation Extraction using Pre-trained Language Models** [paper](https://arxiv.org/pdf/1912.13415.pdf)
+
+7. **Relabel the Noise: Joint Extraction of Entities and Relations via Cooperative Multiagents, ACL2020** [paper](https://arxiv.org/abs/2004.09930)
 
 ## [知识融合](#content)
 ### [实体对齐](#content)
