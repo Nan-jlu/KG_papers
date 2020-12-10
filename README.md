@@ -31,6 +31,7 @@ Contributed by Tian Mingjie(田明杰)、Song Rui(宋瑞)、Zhao Ke(赵克)、Ch
 <tr><td colspan="2"><a href="#知识问答">6. 知识问答</a></td></tr>
 <tr><td colspan="2"><a href="#推荐系统">7. 推荐系统</a></td></tr>
 <tr><td colspan="2"><a href="#知识图谱表示学习">8. 知识图谱表示学习</a></td></tr>
+**知识图谱**
 </table>
 
 ## [实体识别](#content)
